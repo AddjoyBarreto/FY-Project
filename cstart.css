@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.pagebackground{
+    background-color: #EF4555;
+    min-height: 100vh;
+}
+
+.container{
+    min-height: 100vh;
+}
+
+.header{
+    /* font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 86px; */
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 86px;
+}
+
+button{
+    
+}
